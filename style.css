@@ -122,3 +122,27 @@ button {
 .quote-author {
   align-self: flex-end;
 }
+
+.cta-wrapper {
+  margin: 100px 160px;
+}
+.cta-section {
+  padding: 100px 0px;
+  background-color: #3882f6;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.cta-text h2 {
+  color: white;
+  margin: 0;
+}
+.cta-text p {
+  margin: 0;
+}
+.cta-button button {
+  /* border-color: #e5e7eb; */
+  border: 2px solid #e5e7eb;
+}
